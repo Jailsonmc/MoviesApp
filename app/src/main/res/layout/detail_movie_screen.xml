@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorAccentPool"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/colorAccentPool"
+        >
+
+
+        <!-- Detail Text -->
+        <TextView
+            android:id="@+id/detail_movie_screen_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="center"
+            android:layout_toLeftOf="@+id/detail_screen_back_button"
+            android:background="@color/colorPrimary"
+            android:padding="10dp"
+            android:text="Texte"
+            android:textColor="@color/colorTertiary"
+            android:textSize="32sp"
+            android:layout_margin="20dp"
+            />
+
+
+        <!-- Loader -->
+        <include
+            android:id="@+id/detail_movie_screen_loader"
+            layout="@layout/loader"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:layout_margin="20dp"/>
+
+        <!-- Detail Image -->
+        <ImageView
+            android:id="@+id/detail_movie_screen_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:layout_margin="20dp"/>
+
+        <TextView
+            android:id="@+id/detail_movie_screen_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Texte"
+            android:layout_margin="20dp"
+            />
+    </LinearLayout>
+</ScrollView>

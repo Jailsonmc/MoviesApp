@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="get_more">Get More</string>
+    <string name="movies">Movies</string>
+    <string name="series">TV Series</string>
+    <string name="search">Search</string>
+    <string name="enter_text">Enter with text</string>
+    <string name="back">Back</string>
+    <string name="back_detail">Main page</string>
+    <string name="search_result_label">You are the search:</string>
+    <string name="download_services">There were %d downloads of images</string>
+    <string name="downloads_done">Downloads done</string>
+    <string name="enter_url">Introduzir URL</string>
+    <string name="language">en</string>
+    <string name="dateRequisition">Date of Requisition:</string>
+</resources>

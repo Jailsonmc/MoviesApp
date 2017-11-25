@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.android/build-cache/ded3644565747f936b60bb11fdb3db8b6dfbb0eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/classes_f0b9ae8a4e1b0e653863f5c7d2984d0b832158d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.android/build-cache/05e1d7472b815bafd6959c2e4210527650714264/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19a40a8afe0289f6520b25353096ac233e78f69d">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/classes_5dacd1e9a9a4df5f02ef05642aa5c44db512aa93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.android/build-cache/efba02d589168b38f19dff92e8023faa3ac67d3c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/classes_3f8daf951cb785e033564b5c2a4e36784478ba0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/gson-2.7_69cddf262b79ffc150990fbf0453626cca552ddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.android/build-cache/da6c34de47c167a999c6d253448eca45a2c2b6ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/classes_9c8add22dedf603f63970b772f83b92323bb0531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.android/build-cache/af5e23e3379ed9b0b29e568085069a25879dcd62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/classes_de616121e0d7b633cb7f3fdd384b9075ce7ac92e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.android/build-cache/f91ef13e8a0cf5fe83a73a474674d7173fdf8ed8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/classes_ba6cc815072bef71fc5e814b52e2319ecb0d0ed0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.android/build-cache/69a4e27042d99273b651414cab2a0e3f933f52dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/classes_14f6c19c9e5295d47ff75f073b862ca367b9359a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_35f11981abbefe17d6b67cc62289379111292061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.android/build-cache/492ff78e5fd88ad5bdee6ccb1a47b465feff1f1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/classes_6bf75ceb887a89824d83653107db25fa74ba0807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.android/build-cache/b8c4e3bd343a130df9299c86026928272ca2f234/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/classes_9ff709d181d486e8b5ea24a0d1d9131c4f370283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.android/build-cache/a3719bc0a4041f93ef5ae6dd56a12eddb7636587/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/classes_41efef3584310831747761684928a0a3929baed2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.android/build-cache/9dba8278efe1a665e98786ac78ab1506eacae677/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/classes_2daf448b574f1d05d7b9371222d2a6a9b32ce4ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.android/build-cache/bb2f65217473ad9f247f8efebc93317c2091b80a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/classes_bbe99e3e7dc6b93ce320f7bff90a42c1ee4db164.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jailsoncavalcanti/.android/build-cache/ee77fd2e9c6115da1467ef165cde7cc8290d5f59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/jailsoncavalcanti/AndroidStudioProjects/MoviesApp/app/build/intermediates/pre-dexed/debug/classes_739ac0d316fd3f3c8525278476512c693562a12c.jar" />
+    </item>
+
+</items>

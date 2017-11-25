@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="get_more">Obter Mais</string>
+    <string name="movies">Filmes</string>
+    <string name="series">Séries</string>
+    <string name="search">Pesquisar</string>
+    <string name="enter_text">Entre com Texto</string>
+    <string name="back">Voltar</string>
+    <string name="back_detail">Página principal</string>
+    <string name="search_result_label">Você está a procura:</string>
+    <string name="download_services">Foram feitos %d downloads de imagens</string>
+    <string name="downloads_done">Downloads efetuados</string>
+    <string name="enter_url">Introduzir URL</string>
+    <string name="language">pt</string>
+    <string name="dateRequisition">Data da requisição:</string>
+</resources>
